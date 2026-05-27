@@ -2,32 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Business & Marketing · Interactive Media Arts · Sustainable Education"
+subtitle: "Business & Marketing · Interactive Media Arts · NYU Shanghai"
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>NYU Shanghai｜</p>
-    <p>Shaanxi，China</p>
-    
+    <p>NYU Shanghai</p>
+    <p>Xi'an, Shaanxi, China</p>
 
-Hi, I'm Caddy Liu (刘凯迪) — a student at NYU Shanghai majoring in Business & Marketing and minoring in Interactive Media Arts.
+selected_papers: false
+social: true
+announcements:
+  enabled: false
+latest_posts:
+  enabled: false
+---
 
-I'm the founder of **[Eggi](https://testflight.apple.com/join/grntJvVx)**, an identity exploration app for teens built on the Genius State Pyramid Model. Eggi is currently live on Apple TestFlight and helps adolescents navigate self-discovery through structured reflection.
+Hi, I'm Caddie Liu (刘凯迪) — a student at NYU Shanghai completing a dual degree in Business & Marketing and Interactive Media Arts, graduating December 2026.
 
-My work sits at the intersection of technology, design, and human development. 
-I care deeply about how digital tools can support young people in understanding who they are and who they want to become.
+I'm the founder of **[Eggi](https://testflight.apple.com/join/grntJvVx)**, an identity exploration app for teens built on the Genius State Pyramid Model, currently live on Apple TestFlight. Eggi helps adolescents navigate self-discovery through structured reflection.
 
-Previously, I interned at **ByteDance**, 
-led the NYU Shanghai Youth League Committee for four years, 
-taught and organized the teaching program for rural children in **[Chi Heng Foundation](https://www.chihengfoundation.com/)** , 
-and taught migrant children in **[Stepping Stones](https://www.steppingstones.cn/)**，a non-profit organisation  in Shanghai.
+My work sits at the intersection of technology, design, and human development. I care deeply about how digital tools can support young people in understanding who they are and who they want to become.
 
-I grew up in Xi'an, the starting point of the Silk Road, 
-I have a background in theater and host for more than ten years.
+Previously, I interned at **ByteDance**, led the NYU Shanghai Youth League Committee, taught rural children through the **[Chi Heng Foundation](https://www.chihengfoundation.com/)**, and worked with migrant children at **[Stepping Stones](https://www.steppingstones.cn/)** in Shanghai.
 
+I grew up in Xi'an — the starting point of the Silk Road — and have a background in theater and hosting spanning over ten years.
 
-📧：kl3723@nyu.edu
-ig:caddy_zh_l
+📧 kl3723@nyu.edu · Instagram: caddy_zh_l
