@@ -7,7 +7,7 @@ subtitle: "Business & Marketing · Interactive Media Arts · Sustainable Educati
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+
   more_info: >
     <p>NYU Shanghai</p>
     <p>Xi'an, Shaanxi, China</p>
