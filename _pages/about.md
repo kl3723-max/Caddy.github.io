@@ -22,8 +22,8 @@ I care deeply about how digital tools can support young people in understanding 
 
 Previously, I interned at **ByteDance**, 
 led the NYU Shanghai Youth League Committee for four years, 
-taught and organized the teaching program for rural children in **Chi Heng Foundation** , 
-and taught migrant children in **Stepping Stones**，a non-profit organisation  in Shanghai.
+taught and organized the teaching program for rural children in **[Chi Heng Foundation](https://www.chihengfoundation.com/)** , 
+and taught migrant children in **[Stepping Stones](https://www.steppingstones.cn/)**，a non-profit organisation  in Shanghai.
 
 I grew up in Xi'an, the starting point of the Silk Road, 
 I have a background in theater and host for more than ten years.
