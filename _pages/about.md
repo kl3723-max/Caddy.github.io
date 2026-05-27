@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "NYU Shanghai · Founder of Eggi · Interactive Media Arts & Business"
+subtitle: "Sustainable Education · Interactive Media Arts · Business & Marketing"
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
 
 Hi, I'm Caddy Liu (刘凯迪) — a student at NYU Shanghai majoring in Business & Marketing and minoring in Interactive Media Arts.
 
-I'm the founder of **[Eggi](https://testflight.apple.com/join/yourlink)**, an identity exploration app for teens built on the Genius State Pyramid Model. Eggi is currently live on Apple TestFlight and helps adolescents navigate self-discovery through structured reflection.
+I'm the founder of **[Eggi](https://testflight.apple.com/join/grntJvVx)**, an identity exploration app for teens built on the Genius State Pyramid Model. Eggi is currently live on Apple TestFlight and helps adolescents navigate self-discovery through structured reflection.
 
 My work sits at the intersection of technology, design, and human development. I care deeply about how digital tools can support young people in understanding who they are and who they want to become.
 
