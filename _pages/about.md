@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Shanghai, China</p>
-    <p>Shaanxi, China</p>
     <p>NYU Shanghai</p>
+    <p>Shaanxi，China</p>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
