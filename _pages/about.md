@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: "Business & Marketing · Interactive Media Arts · Sustainable Education "
 
