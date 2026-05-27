@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Sustainable Education · Interactive Media Arts · Business & Marketing"
+subtitle: "Business & Marketing · Interactive Media Arts · Sustainable Education"
 
 profile:
   align: right
@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>NYU Shanghai｜</p>
-    
     <p>Shaanxi，China</p>
     
 
@@ -34,11 +33,11 @@ I'm the founder of **[Eggi](https://testflight.apple.com/join/grntJvVx)**, an id
 
 My work sits at the intersection of technology, design, and human development. I care deeply about how digital tools can support young people in understanding who they are and who they want to become.
 
-Previously, I interned at **ByteDance**, led the NYU Shanghai Youth League Committee, taught and organized rural children through the teaching program in **Chi Heng Foundation** , and taught migrant children in Shanghai in **Stepping Stones**.
+Previously, I interned at **ByteDance**, led the NYU Shanghai Youth League Committee for four years, taught and organized the teaching program for rural children in **Chi Heng Foundation** , and taught migrant children in **Stepping Stones** a non-profit organisation  in Shanghai.
 
-I grew up in Xi'an,the starting point of the Silk Road, and have a background in theater and drama for more than ten years.
+I grew up in Xi'an, the starting point of the Silk Road, and have a background in theater and host for more than ten years.
 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+📧：kl3723@nyu.edu
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ig:caddy_ah_l
