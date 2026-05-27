@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink:/
 subtitle:NYU Shanghai · Founder of <a href='https://testflight.apple.com/join/yourlink'>Eggi</a> ·  Business and Marketing & Interactive Media Arts
 
 
