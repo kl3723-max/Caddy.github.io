@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-Hi, I'm Caddie Liu (刘凯迪) — a student at **[NYU Shanghai](https://shanghai.nyu.edu/)** 
+Hi, I'm Caddy Liu (刘凯迪) — a student at **[NYU Shanghai](https://shanghai.nyu.edu/)** 
 
 I'm the founder of **[Eggi](https://testflight.apple.com/join/grntJvVx)**, an identity exploration app for teens built on the Genius State Pyramid Model, currently live on Apple TestFlight. Eggi helps adolescents navigate self-discovery through structured reflection.
 
