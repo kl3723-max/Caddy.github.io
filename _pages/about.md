@@ -2,16 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:NYU Shanghai · Founder of <a href='https://testflight.apple.com/join/yourlink'>Eggi</a> ·  Business and Marketing & Interactive Media Arts
+
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Shanghai, China</p>
+    <p>Shaanxi, China</p>
+    <p>NYU Shanghai</p>
+    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +29,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Caddy Liu (刘凯迪) — a student at NYU Shanghai majoring in Business & Marketing and minoring in Interactive Media Arts.
+
+I'm the founder of **Eggi**, an identity exploration app for teens built on the Genius State Pyramid Model. Eggi is currently live on Apple TestFlight and helps adolescents navigate self-discovery through structured reflection.
+
+My work sits at the intersection of technology, design, and human development. I care deeply about how digital tools can support young people in understanding who they are and who they want to become.
+
+Previously, I interned at **ByteDance**, led the NYU Shanghai Youth League Committee, and taught rural children through the **Chi Heng Foundation** teaching program.
+
+I grew up between Xi'an and rural Gansu, and have a background in theater and drama — both of which still shape how I think about storytelling and identity.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
