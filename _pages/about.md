@@ -35,9 +35,9 @@ I'm the founder of **Eggi**, an identity exploration app for teens built on the 
 
 My work sits at the intersection of technology, design, and human development. I care deeply about how digital tools can support young people in understanding who they are and who they want to become.
 
-Previously, I interned at **ByteDance**, led the NYU Shanghai Youth League Committee, and taught rural children through the **Chi Heng Foundation** teaching program.
+Previously, I interned at **ByteDance**, led the NYU Shanghai Youth League Committee, taught and organized rural children through the teaching program in **Chi Heng Foundation** , and taught migrant children in Shanghai in **Stepping Stones**.
 
-I grew up between Xi'an and rural Gansu, and have a background in theater and drama — both of which still shape how I think about storytelling and identity.
+I grew up in Xi'an,the starting point of the Silk Road, and have a background in theater and drama for more than ten years.
 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
