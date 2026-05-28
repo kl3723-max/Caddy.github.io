@@ -1,12 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
 nav_order: 2
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: /assets/pdf/caddy_cv.pdf
+description: Caddy Liu's CV — NYU Shanghai, Class of 2026.
 toc:
   sidebar: left
 ---
